@@ -1,1 +1,3 @@
 teste
+
+hist(mtcars$mpg)
